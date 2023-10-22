@@ -1,3 +1,3 @@
-> _With great power, comes great abuse._
+# Diego Ramos
 
-— [Johann Gevers](https://www.youtube.com/watch?v=8oeiOeDq_Nc)
+Creating design systems.
