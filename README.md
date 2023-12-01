@@ -1,3 +1,3 @@
 # Diego Ramos
 
-Creating design systems.
+Creating reusable components for web3 development.
